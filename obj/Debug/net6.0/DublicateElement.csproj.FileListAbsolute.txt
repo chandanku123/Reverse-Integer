@@ -1,0 +1,15 @@
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/bin/Debug/net6.0/DublicateElement
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/bin/Debug/net6.0/DublicateElement.deps.json
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/bin/Debug/net6.0/DublicateElement.runtimeconfig.json
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/bin/Debug/net6.0/DublicateElement.dll
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/bin/Debug/net6.0/DublicateElement.pdb
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.csproj.AssemblyReference.cache
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.AssemblyInfoInputs.cache
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.AssemblyInfo.cs
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.csproj.CoreCompileInputs.cache
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.dll
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/refint/DublicateElement.dll
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.pdb
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/DublicateElement.genruntimeconfig.cache
+/Users/chandankumarpandey/Desktop/Development/DublicateElement/obj/Debug/net6.0/ref/DublicateElement.dll
